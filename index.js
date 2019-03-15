@@ -17,3 +17,8 @@ function overwriteBestCustomer(){
 function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = "red"
 }
+
+function changeLeastFavoriteCustomer(){
+  leastFavoriteCustomer = "blu"
+  return leastFavoriteCustomer
+}
